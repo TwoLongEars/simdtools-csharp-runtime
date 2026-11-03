@@ -1,5 +1,5 @@
 {
- "version": "v4",
+ "version": "v5",
  "files": [
   {
    "name": "_framework/Basic.Reference.Assemblies.Net100.h678lk7q9v.wasm",
@@ -42,9 +42,9 @@
    "sha256": "d8d15b390cffb6defe0bb0c39643334f982fa52043d61d1bfce91600b6eed958"
   },
   {
-   "name": "_framework/Runner.1aaq934iw2.wasm",
-   "size": 183061,
-   "sha256": "77f4216ba80647a3ca24a24544cd4355d61c63b5f262cdc1024ca6638c808ec8"
+   "name": "_framework/Runner.l9gn6ypeai.wasm",
+   "size": 195861,
+   "sha256": "195066609dd7c5a70539041d91d519ed3d76869824eac17400e845c3e7650de7"
   },
   {
    "name": "_framework/System.AppContext.zwajbbu0v2.wasm",
@@ -874,7 +874,7 @@
   {
    "name": "_framework/dotnet.js",
    "size": 82115,
-   "sha256": "fe811ecc651c50249ab8ca2e4076032410b7f595c2f262fd29f0e0be01e7b778"
+   "sha256": "dc43b5547ba8608fdb44e0d9a4b596f5ecf30cb60d308467cf3e28331dcf3053"
   },
   {
    "name": "_framework/dotnet.native.3zpaws0drs.wasm",
