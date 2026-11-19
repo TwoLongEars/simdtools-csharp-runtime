@@ -1,5 +1,5 @@
 {
- "version": "v8",
+ "version": "v9",
  "files": [
   {
    "name": "_framework/Basic.Reference.Assemblies.Net100.h678lk7q9v.wasm",
@@ -12,14 +12,14 @@
    "sha256": "fda0f96a800f749d3e5562b6f410b0c8f2a292b113c3fe4bf515f9c35d55a8be"
   },
   {
-   "name": "_framework/Microsoft.CodeAnalysis.CSharp.spyk6zagzf.wasm",
-   "size": 6687001,
-   "sha256": "c0bed626f8e7a0dc502eaef3b8bf234df87be17bac108b1ae934bbeb562125f3"
+   "name": "_framework/Microsoft.CodeAnalysis.CSharp.06u4hp92eu.wasm",
+   "size": 7087897,
+   "sha256": "48c934d661c89a99fde591f6f859631db62f92741528d2e8e101f98f7e955c43"
   },
   {
-   "name": "_framework/Microsoft.CodeAnalysis.kpjgxy86t6.wasm",
-   "size": 3019033,
-   "sha256": "c85076a486b66f25774eb4732b1f2c64c7fd7624f808b96cf941d15cfa7381ec"
+   "name": "_framework/Microsoft.CodeAnalysis.wxh2vkym8l.wasm",
+   "size": 3100953,
+   "sha256": "ac49e9a707d934f6e93cc8aff045e9fe4fd2f7ba608e451a8b2980525f6718b5"
   },
   {
    "name": "_framework/Microsoft.VisualBasic.8p7acm0ol9.wasm",
@@ -42,9 +42,9 @@
    "sha256": "baeae5589326de8f4a21ab467c1774d0c98008f277e6244721df16901f609a04"
   },
   {
-   "name": "_framework/Runner.why8oy4g04.wasm",
-   "size": 210197,
-   "sha256": "a4803741502652d56e74ab3130351480784505f9d70cfa46c90816d6a1b152a4"
+   "name": "_framework/Runner.ggnz7jim3d.wasm",
+   "size": 210709,
+   "sha256": "806b7901257b7289de3bfc533854aefe00eae7ce64102816a79d29af5498a52d"
   },
   {
    "name": "_framework/System.AppContext.2dp0f0ejq7.wasm",
@@ -874,7 +874,7 @@
   {
    "name": "_framework/dotnet.js",
    "size": 81011,
-   "sha256": "c04b4764401fbe7c4671488f38bcb4b5a9193b9e8aa3c79a82b6a3bcb4c816db"
+   "sha256": "667e40c677e4139b73277d8299d5ae98670a1347331379769668be82ba5ee2b3"
   },
   {
    "name": "_framework/dotnet.native.3bptkeu1pi.wasm",
